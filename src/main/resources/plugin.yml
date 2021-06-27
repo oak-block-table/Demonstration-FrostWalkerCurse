@@ -1,6 +1,6 @@
 name: FrostCursePlugin
 description: FrostCurse
-version: '0.01.01'
+version: '0.01.02'
 main: org.hexagonalmagmacube.frostcurse.FrostCursePlugin
 api-version: 1.16
 author: Oak Table
